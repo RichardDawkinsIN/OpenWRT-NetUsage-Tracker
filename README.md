@@ -30,7 +30,7 @@ Built for OpenWrt **23.05 / 24.10 / 25.x** (`apk`-based systems, no Lua runtime 
 
 2. Download the script:
    ```bash
-   wget https://raw.githubusercontent.com/<your-username>/<your-repo>/main/netusage.sh
+   wget https://github.com/RichardDawkinsIN/OpenWRT-NetUsage-Tracker/releases/latest/download/netusage.sh
    ```
 
 3. Make it executable and run it:
